@@ -1,0 +1,22 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+   h1, h2, h3, h4, h5, h6 {
+       font-family: 'Open Sans', sans-serif;
+   }
+   p, div {
+       font-family: 'Nunito', sans-serif;
+   }
+   body {
+       background-color: #e0e0e0;
+   }
+
+   .jumbotron {
+   background-image: url("../img/restaurant.jpg");
+   background-size: cover;}
+
+   .jumbo {
+     color: white;
+   }
